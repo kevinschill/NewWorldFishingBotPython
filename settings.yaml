@@ -1,0 +1,22 @@
+Bait:
+  x: 1597
+  x2: 1658
+  y: 826
+  y2: 884
+BaitButton:
+  x: 1597
+  x2: 1658
+  y: 826
+  y2: 884
+Fish:
+  x: 1904
+  x2: 1815
+  y: 629
+  y2: 741
+Repair:
+  x: 1597
+  x2: 1658
+  y: 826
+  y2: 884
+RepairCast:
+  amount: 2
